@@ -229,7 +229,7 @@ milkRouter.patch(
     }
 )
 
-//api xóa bài hát
+//api xóa sản phẩm
 
 milkRouter.delete(
     "/deleteMilk",
